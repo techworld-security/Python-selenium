@@ -1,3 +1,3 @@
-You must have python installed on your machine
-You must have pip installed on your machine to install seleniun package.
-You have to download webdrivers for using the browser interface, Firefox, for example, requires geckodriver, which needs to be installed before.
+1. You must have python installed on your machine
+2. You must have pip installed on your machine to install seleniun package.
+3. You have to download webdrivers for using the browser interface, Firefox, for example, requires geckodriver, which needs to be installed before.
